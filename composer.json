@@ -1,5 +1,5 @@
 {
-    "name": "serosme/packagetest",
+    "name": "serosme/myfirstpackagetest",
     "description": "Ejemplo de crear un package en PHP",
     "license": "MIT",
     "keywords": ["serosme"],
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-        "serosme\\PackageTest\\": "src/"
+        "serosme\\MyFirstPackageTest\\": "src/"
     }
   },
     "require-dev": {

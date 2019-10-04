@@ -1,8 +1,8 @@
 <?php
 
-namespace Serosme\PackageTest;
+namespace Serosme\MyFirstPackageTest;
 
-use Serosme\PackageTest\Respuesta;
+use Serosme\MyFirstPackageTest\Respuesta;
 
 class Principal {
 

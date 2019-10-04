@@ -1,6 +1,6 @@
 <?php
 
-namespace Serosme\PackageTest;
+namespace Serosme\MyFirstPackageTest;
 
 class Respuesta {
 
